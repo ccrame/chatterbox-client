@@ -74,6 +74,7 @@ form input[type=text] {
 }
 
 .spinner {
+    display: none;
     float: right;
     height: 46px;
     margin-bottom: 5px;
@@ -86,4 +87,8 @@ form input[type=text] {
 .message {
     border: 1px solid blue;
     margin: 5px;
+}
+
+.bold {
+  font-weight: bold;
 }
